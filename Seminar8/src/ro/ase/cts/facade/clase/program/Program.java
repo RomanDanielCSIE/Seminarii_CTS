@@ -2,8 +2,7 @@ package ro.ase.cts.facade.clase.program;
 
 import ro.ase.cts.facade.clase.Facade;
 import ro.ase.cts.facade.clase.Masa;
-import ro.ase.cts.facade.clase.OperatorMese;
-import ro.ase.cts.facade.clase.Picolo;
+
 
 public class Program {
 
